@@ -14,3 +14,8 @@ Repository for Machine Learning &amp; Statistics Module for Assessment Tasks 202
 
 All data and commentary relating to project can be found within the Jupyter Notebook, please refer here for my submission.
 
+## Introduction
+### Square Root of 2
+Most of the calculations that we are used to using in mathematics have an opposite or inverse to the calculation, for example subtraction is the opposite of addition division is the opposite to multiplication and so on. The same can be said for powers or exponents of numbers with the inverse of exponents being square roots.
+
+Simply explained the square root of a number n is the number that when multiplied by itself is equal to n some of which are perfect squares and do not require any decimal places. The $\sqrt{100}$ is equal to 10 as 10 x 10 or $10^2$ equals 100 and is a perfect square, whereas the $\sqrt{30}$ is equal to roughly 5.4772 and so it not a perfect square as it's square root is not a whole number.
