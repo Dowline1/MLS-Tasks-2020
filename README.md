@@ -28,3 +28,4 @@ The first is a chi-square goodness of fit test and is used to determine if a sam
 For this aspect of the Tasks Assignment the goal is to verify that the chi-square value of the example used in (Wikipedia Contributors, 2020) relating to a neighborhood and the distribution of the residents working class equates to 24.6 using scipy.stats.
 
 ### Standard Deviation
+The Standard Deviation is a measure of how far apart numbers are in a dataset denoted by the symbol σ or sigma. Standard Deviation is calculated by taking the square root of the **variance** with variance being calculated by taking each value in the set, subtracting this from the overall average as the **difference** and finally squaring this difference and finding the average of all these differences giving you the variance (Math is Fun, 2017).
