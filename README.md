@@ -26,3 +26,5 @@ The Chi Square Test has two distinct types which both use the chi-square statist
 The first is a chi-square goodness of fit test and is used to determine if a sample of data matches up with the population. The second is a chi-square test for independence which compares two variables or categories using a contingency table in order to determine if the categories are related.
 
 For this aspect of the Tasks Assignment the goal is to verify that the chi-square value of the example used in (Wikipedia Contributors, 2020) relating to a neighborhood and the distribution of the residents working class equates to 24.6 using scipy.stats.
+
+### Standard Deviation
