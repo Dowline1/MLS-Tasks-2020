@@ -29,3 +29,8 @@ For this aspect of the Tasks Assignment the goal is to verify that the chi-squar
 
 ### Standard Deviation
 The Standard Deviation is a measure of how far apart numbers are in a dataset denoted by the symbol σ or sigma. Standard Deviation is calculated by taking the square root of the **variance** with variance being calculated by taking each value in the set, subtracting this from the overall average as the **difference** and finally squaring this difference and finding the average of all these differences giving you the variance (Math is Fun, 2017).
+
+### Iris Dataset
+The Iris dataset is a famous multi-variant dataset created by Ronald Fisher for his 1936 publication on the use of multiple measurements in linear discriminant analysis. For the dataset Fisher took length and width measurements of Sepals and Petals of 150 plants evenly over 3 species of Iris Flower. 
+
+The dataset is commonly used in the teaching of machine learning techniques and in this project we will attempt to use <i>k</i>-Means Clustering to identify species of iris after training the model.
